@@ -1,1 +1,1 @@
-This is the team project on simple shella.
+This is the team project on simple shell.
