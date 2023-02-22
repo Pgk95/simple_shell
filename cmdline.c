@@ -15,5 +15,5 @@
 		printf("%s", command);
 	}
 	free(command);
-	return (0);
+	return(0);
 }
