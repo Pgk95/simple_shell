@@ -4,7 +4,6 @@
  * main - stores arguments.
  * Return: Always (0).
  */
-int main(void)
 {
 	char *command = NULL;
 	size_t len = 0;
